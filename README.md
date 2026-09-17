@@ -1,15 +1,8 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Gabe Pacella" width="100%" />
-</p>
+# Gabe Pacella
 
-<p align="center">
-  GPU systems &nbsp;·&nbsp; inference &nbsp;·&nbsp; graphics
-</p>
+GPU systems · inference · graphics
 
-<p align="center">
-  <a href="https://gpack2.github.io/">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-pacella/">LinkedIn</a>
-</p>
+[Website](https://gpack2.github.io/) · [LinkedIn](https://www.linkedin.com/in/gabriel-pacella/)
 
 ---
 
@@ -21,4 +14,3 @@ I'm Gabe, an undergraduate at Carnegie Mellon University interested in building 
 - **[in-game-GPU-overlay](https://github.com/gpack2/in-game-GPU-overlay)** — Real-time hardware telemetry rendered directly over game frames.
 - **[GPU-kernel-practice](https://github.com/gpack2/GPU-kernel-practice)** — CUDA kernels and notes from learning GPU programming.
 - **[packpdf](https://github.com/gpack2/packpdf)** — A fast, lightweight PDF editor built for schoolwork.
-
