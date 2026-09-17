@@ -11,7 +11,7 @@ Hi I'm Gabe, an undergraduate student working towards an ECE degree and an addit
 - ML inference systems
 - Computer architecture and parallel programming
 - Real-time graphics and rendering
-- 
+
 ### Things I'm Building
 
 - **[inference-engine](https://github.com/gpack2/inference-engine)** — Qwen2.5 inference with KV caching and CPU, MPS, and CUDA validation.
