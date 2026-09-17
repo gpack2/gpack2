@@ -1,14 +1,18 @@
 # Gabe Pacella
 
-GPU systems · inference · graphics
-
 [Website](https://gpack2.github.io/) · [LinkedIn](https://www.linkedin.com/in/gabriel-pacella/)
 
 ---
 
-I'm Gabe, an undergraduate at Carnegie Mellon University interested in building fast, useful software close to the hardware.
+Hi I'm Gabe, an undergraduate student working towards an ECE degree and an additional major in CSat Carnegie Mellon University. I love building systems that make use of GPUs and other accelerators, building profilers for these systems, and finding optimizations and speedups! 
 
-### Selected work
+### Currently exploring
+- GPU programming and performance engineering for specialized-accelerators
+- ML inference systems
+- Computer architecture and parallel programming
+- Real-time graphics and rendering
+- 
+### Things I'm Building
 
 - **[inference-engine](https://github.com/gpack2/inference-engine)** — Qwen2.5 inference with KV caching and CPU, MPS, and CUDA validation.
 - **[in-game-GPU-overlay](https://github.com/gpack2/in-game-GPU-overlay)** — Real-time hardware telemetry rendered directly over game frames.
