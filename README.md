@@ -1,8 +1,6 @@
 # Gabe Pacella
 
-[Website](https://gpack2.github.io/) · [LinkedIn](https://www.linkedin.com/in/gabriel-pacella/)
-
----
+[LinkedIn](https://www.linkedin.com/in/gabriel-pacella/)
 
 Hi I'm Gabe, an undergraduate student working towards an ECE degree and an additional major in CSat Carnegie Mellon University. I love building systems that make use of GPUs and other accelerators, building profilers for these systems, and finding optimizations and speedups! 
 
