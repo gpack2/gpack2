@@ -5,9 +5,9 @@
 Hi I'm Gabe, an undergraduate student working towards an ECE degree and an additional major in CS at Carnegie Mellon University. I love building systems that make use of GPUs and other accelerators, building profilers for these systems, and finding their optimizations and speedups! 
 
 ### Currently exploring
-- GPU programming and performance engineering for specialized-accelerators
+- GPU programming and performance engineering
 - ML inference systems
-- Computer architecture and parallel programming
+- Software for specialized-accelerators
 - Real-time graphics and rendering
 
 ### Things I'm Building
