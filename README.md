@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-pacella/)
 
-Hi I'm Gabe, an undergraduate student working towards an ECE degree and an additional major in CSat Carnegie Mellon University. I love building systems that make use of GPUs and other accelerators, building profilers for these systems, and finding optimizations and speedups! 
+Hi I'm Gabe, an undergraduate student working towards an ECE degree and an additional major in CS at Carnegie Mellon University. I love building systems that make use of GPUs and other accelerators, building profilers for these systems, and finding their optimizations and speedups! 
 
 ### Currently exploring
 - GPU programming and performance engineering for specialized-accelerators
